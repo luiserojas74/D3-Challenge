@@ -1,3 +1,13 @@
+## About
+   - This is the project I developed for unit 16 of the Boot Camp: [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
+   - I created a D3 Dabbler to analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand my findings. For more details, see [here](#the-original-text-of-the-homework-assignment).
+   - Here is a snapshot of the app: 
+<img src="D3_data_journalism/Images/snapshot.png" width="600" height="400">
+
+  ### - The link for the app of this project is [here](https://luiserojas74.github.io/D3-Challenge/D3_data_journalism/).
+   - The main tools I used on this project are : html, css and [D3] (https://d3js.org/).
+   
+
 # D3 Homework - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
