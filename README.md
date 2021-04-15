@@ -7,7 +7,7 @@
 <img src="D3_data_journalism/Images/snapshot.png" width="600" height="400">
 
 
-  ## The link for the app of this project is [here](https://luiserojas74.github.io/D3-Challenge/D3_data_journalism/).
+# The link for the app of this project is [here](https://luiserojas74.github.io/D3-Challenge/D3_data_journalism/).
    - The main tools I used on this project are: html, css and [D3] (https://d3js.org/).
    
 
