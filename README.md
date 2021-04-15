@@ -1,6 +1,6 @@
 ## About
    - This is the project I developed for unit 16 of the Boot Camp: [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
-   - I created a D3 Dabbler to analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand my findings. For more details, see [here](#the-original-text-of-the-homework-assignment).
+   - I created a D3 Interactive Dabbler in order to analyze the current trends shaping people's lives, as well as help readers understand my findings. For more details, see [here](#the-original-text-of-the-homework-assignment).
    - Here is a snapshot of the app: 
 
 
