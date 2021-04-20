@@ -10,7 +10,7 @@
 - ### The link for the app of this project is [here](https://luiserojas74.github.io/D3-Challenge/D3_data_journalism/).
 - The main tools I used on this project are: html, css and [D3] (https://d3js.org/).
    
-
+## **_The original text of the homework assignment:_** 
 # D3 Homework - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
